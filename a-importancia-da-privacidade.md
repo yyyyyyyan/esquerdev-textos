@@ -1,6 +1,8 @@
+# A importância da privacidade
 
-[//]: # (O que é privacidade? Qual a importância desse conceito nos dias de hoje, com o uso em massa da Internet? Nesse post, nos aprofundamos um pouco nesse conceito, entendendo por que você deveria não só se importar com a proteção à privacidade, como lutar por esse direito!)
+*O que é privacidade? Qual a importância desse conceito nos dias de hoje, com o uso em massa da Internet? Nesse post, nos aprofundamos um pouco nesse conceito, entendendo por que você deveria não só se importar com a proteção à privacidade, como lutar por esse direito!*
 
+[**LEIA O TEXTO NO BLOG!**](https://esquer.dev/posts/a-importancia-da-privacidade/)
 
 A palavra **privacidade**, na língua portuguesa, é derivada direta da palavra ***privacy***, em inglês. Por sua vez, esta vem do adjetivo latino ***privatus***, que, na Roma Antiga, explicitava uma negação jurídica do que era considerado ***publicus***, ou seja, do que era considerado pertencente ao povo romano em geral.
 
